@@ -28,3 +28,7 @@ Mi objetivo a corto plazo es complementar mi experiencia en PosVenta de Software
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 </p>
+
+---
+<h1 align="center">PROJECTS</h1>
+<h4>SPA "FUUD" </h4>
