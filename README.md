@@ -6,7 +6,7 @@ Mi objetivo a corto plazo es complementar mi experiencia en PosVenta de Software
 ---
 - 🔭  Actualmente estoy Trabajando en mi Portfolio.
 
-- 🌱 Tambien estoy aprendiendo **TypeScript**
+- 🌱 Tambien estoy aprendiendo **PHP**
 
 - 📫 Contacto: **lacevedopini@gmail.com**
 ---
