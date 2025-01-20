@@ -4,10 +4,6 @@
 Mi objetivo a corto plazo es complementar mi experiencia en PosVenta de Software con mi actual logro de convertirme en Desarrollador web.</h3>
 
 ---
-- 🔭  Actualmente estoy Trabajando en mi Portfolio.
-
-- 🌱 Tambien estoy aprendiendo **PHP**
-
 - 📫 Contacto: **lacevedopini@gmail.com**
 ---
 
