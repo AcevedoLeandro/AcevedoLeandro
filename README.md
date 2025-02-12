@@ -1,7 +1,6 @@
 <img src="https://github.com/AcevedoLeandro/AcevedoLeandro/blob/38c72145f7f89094841cf4c82a5d1c320b00c00e/Sleep%20Code%20Repeat.png" style="height: 100% , width:100%">
 <h1 align="center">Hola 👋, Soy Leandro Acevedo</h1>
-<h3 align="center">Desempeño tareas como encargado de una Empresa local de venta de productos y servicios informaticos.
-Mi objetivo a corto plazo es complementar mi experiencia en PosVenta de Software con mi actual logro de convertirme en Desarrollador web.</h3>
+<h3 align="center"><Full Stack Developer/> Javascript | Node Js | HTML | CSS | Redux | React | Postgres | Sequelize | Express</h3>
 
 ---
 - 📫 Contacto: **lacevedopini@gmail.com**
