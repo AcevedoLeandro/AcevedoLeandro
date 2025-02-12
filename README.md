@@ -1,6 +1,7 @@
 <img src="https://github.com/AcevedoLeandro/AcevedoLeandro/blob/38c72145f7f89094841cf4c82a5d1c320b00c00e/Sleep%20Code%20Repeat.png" style="height: 100% , width:100%">
 <h1 align="center">Hola 👋, Soy Leandro Acevedo</h1>
 <h3 align="center">"Un buen programador es alguien que siempre mira en ambas direcciones antes de cruzar una calle de un solo sentido." - Grace Hopper </h3>
+
 ---
 - 📫 Contacto: **lacevedopini@gmail.com**
 ---
